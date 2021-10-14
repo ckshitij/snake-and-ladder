@@ -1,8 +1,8 @@
-##Snake and Ladder Game
+## Snake and Ladder Game
 
 ### This kind of question are generally asked in machine coding round
 
-###Input format for the PlayGame class is below
+### Input format for the PlayGame class is below
 
 - Number of snakes (s) followed by s lines each containing 2 numbers denoting the head and tail positions of the snake.
 - Number of ladders (l) followed by l lines each containing 2 numbers denoting the start and end positions of the ladder.
@@ -33,6 +33,6 @@ Gaurav
 Sagar
 ```
 
-###Refrence
+### Refrence
 
 - [Work@tech Snake and Ladder](https://workat.tech/machine-coding/practice/snake-and-ladder-problem-zgtac9lxwntg)
